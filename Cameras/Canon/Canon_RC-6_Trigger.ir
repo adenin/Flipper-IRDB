@@ -39,6 +39,8 @@ Version: 1
 # EOS 70D
 # EOS M6
 # EOS M5
+# EOS R7
+
 #
 name: Trigger
 type: raw
